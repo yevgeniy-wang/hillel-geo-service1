@@ -2,7 +2,7 @@
   "name": "yevgeniy/geoservice1",
   "autoload": {
     "psr-4": {
-      "Hillel\\GeoService1": "./src"
+      "Hillel\\GeoService1\\": "./src"
     }
   },
   "require": {

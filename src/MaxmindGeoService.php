@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Service\Geo;
+namespace Hillel\GeoService1;
 
 
 use GeoIp2\Database\Reader;
